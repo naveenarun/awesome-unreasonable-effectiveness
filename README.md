@@ -6,6 +6,7 @@ This collection is a tribute to the notion of "unreasonable effectiveness", firs
 
 1. [Academic Papers](#academic-papers)
 1. [Blogs](#blogs)
+2. [Presentations](#presentations)
 1. [Unreasonable *In*effectiveness](#unreasonable-ineffectiveness)
 
 # Academic Papers
@@ -33,10 +34,42 @@ This collection is a tribute to the notion of "unreasonable effectiveness", firs
 - [The Unreasonable Effectiveness of Structured Random Orthogonal Embeddings](https://proceedings.neurips.cc/paper/2017/hash/bf8229696f7a3bb4700cfddef19fa23f-Abstract.html)
 - [The unreasonable effectivness of CALL: What have we learned in two decades of research?](https://www.cambridge.org/core/journals/recall/article/abs/unreasonable-effectivness-of-call-what-have-we-learned-in-two-decades-of-research/57443DBECF885B4CA7282AC3996EBE21)
 - [The Unreasonable Effectiveness of the Affine Hecke Algebra](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1802378)
+- [The unreasonable effectiveness of few-shot learning for machine translation](https://arxiv.org/abs/2302.01398)
 
 # Blogs
 
 - [The Unreasonable Effectiveness of Checklists](https://rs.io/unreasonable-effectiveness-of-checklists/)
 - [The unreasonable effectiveness of just showing up everyday](https://typesense.org/blog/the-unreasonable-effectiveness-of-just-showing-up-everyday/)
 - [The unreasonable effectiveness of one-on-ones](https://www.benkuhn.net/11/)
-- 
+- [The Effectiveness of Unreasonable Small Groups](https://gwern.net/note/small-groups)
+- [The Unreasonable Effectiveness of Small Optimizations](https://studio.ribbonfarm.com/p/the-unreasonable-effectiveness-of)
+- [On rebooting: the unreasonable effectiveness of turning computers off and on again](https://keunwoo.com/notes/rebooting/)
+- [The Unreasonable Effectiveness of Operations Research](https://www.theatlantic.com/technology/archive/2011/03/the-unreasonable-effectiveness-of-operations-research/72212/)
+- [The Unreasonable Effectiveness of Pronouns](https://www.vectorsofmind.com/p/the-unreasonable-effectiveness-of)
+- [The Unreasonable Effectiveness of 1-1 Learning](https://every.to/superorganizers/the-unreasonable-effectiveness-of-1-1-learning)
+- [The Unreasonable Effectiveness of Test Retries: An Android Monorepo Case Study](https://shopify.engineering/unreasonable-effectiveness-test-retries-android-monorepo-case-study)
+- [The Unreasonable Effectiveness of VLC](https://kylebenzle.medium.com/the-unreasonable-effectiveness-of-vlc-424bde0f90f1)
+- [The Unreasonable Effectiveness of TDD](https://bignerdranch.com/blog/the-unreasonable-effectiveness-of-tdd/)
+- [The Unreasonable Effectiveness of Data Pipeline Smoke Tests](https://dagster.io/blog/smoke-test-data-pipeline)
+- [The Unreasonable Effectiveness of SQL](The Unreasonable Effectiveness of SQL)
+- [The Unreasonable Syntactic Expressivity of RNNs](The Unreasonable Syntactic Expressivity of RNNs)
+- [The Unreasonable Effectiveness of Dynamic Typing for Practical Programs](https://www.infoq.com/presentations/dynamic-static-typing/)
+- [The unreasonable effectiveness of the Julia programming language](https://arstechnica.com/science/2020/10/the-unreasonable-effectiveness-of-the-julia-programming-language/)
+- [The Unreasonable Effectiveness of Quasirandom Sequences](https://extremelearning.com.au/unreasonable-effectiveness-of-quasirandom-sequences/)
+- [How Do We Explain the Unreasonable Effectiveness of IT?](http://highscalability.com/blog/2015/7/6/how-do-we-explain-the-unreasonable-effectiveness-of-it.html)
+- [Unreasonable Effectiveness of Knot Theory](https://www.maa.org/press/periodicals/convergence/unreasonable-effectiveness-of-knot-theory)
+- [The unreasonable effectiveness of C](https://www.osnews.com/story/26689/the-unreasonable-effectiveness-of-c/)
+
+# Presentations
+
+- [The Unreasonable Effectiveness of a Single Wide Event](https://www.honeycomb.io/resources/the-unreasonable-effectiveness-of-a-single-wide-event)
+- [The Unreasonable Effectiveness of Multiple Dispatch](https://www.juliaopt.org/meetings/santiago2019/slides/stefan_karpinski.pdf)
+- [The Unreasonable Effectiveness of Quantum Physics in Modern Mathematics](https://www.ias.edu/ideas/2015/dijkgraaf-unreasonable-effectiveness)
+- [The Unreasonable Effectiveness of JPEG: A Signal Processing Approach](https://www.franksworld.com/2022/01/26/the-unreasonable-effectiveness-of-jpeg-a-signal-processing-approach/)
+- [The Unreasonable Effectiveness of Spectral Graph Theory: A Confluence of Algorithms, Geometry, and Physics](https://simons.berkeley.edu/events/open-lecture-unreasonable-effectiveness-spectral-graph-theory-confluence-algorithms-geometry)
+
+# Unreasonable *In*effectiveness
+
+- [The unreasonable ineffectiveness of mathematics in economics](https://www.jstor.org/stable/23601602)
+- [A mathematician's view of the unreasonable ineffectiveness of mathematics in biology](https://arxiv.org/abs/2103.04190)
+- [The Unreasonable Ineffectiveness of Philosophy](https://philosophynow.org/issues/17/The_Unreasonable_Ineffectiveness_of_Philosophy)
