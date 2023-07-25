@@ -1,6 +1,6 @@
 # Awesome "Unreasonable Effectiveness" papers
 
-This collection is a tribute to the notion of "unreasonable effectiveness", first explored in the 1959 publication by Eugene Wigner titled ["The Unreasonable Effectiveness of Mathematics in the Natural Sciences"](https://personal.lse.ac.uk/ROBERT49/teaching/ph201/Week15_xtra_Wigner.pdf). It is a list of papers, blog posts, etc. that discuss the unreasonable effectiveness of X in Y, helping us rediscover our sense of wonder at the philosophy and soundness of accepted techniques in many fields.
+This collection is a tribute to the notion of "unreasonable effectiveness", first explored in the 1959 publication by Eugene Wigner titled ["The Unreasonable Effectiveness of Mathematics in the Natural Sciences"](https://personal.lse.ac.uk/ROBERT49/teaching/ph201/Week15_xtra_Wigner.pdf). It is a list of papers, blog posts, etc. that discuss the unreasonable effectiveness of X in Y, helping us rediscover our sense of wonder at the philosophy behind accepted techniques in many fields.
 
 ## Table of Contents
 
